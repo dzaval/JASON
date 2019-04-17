@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Website</title>
+    <link rel="stylesheet" type="text/css" href"my_style.css">
+  </head>
+  <body>
+    <img id="image" src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source\
+=images&cd=&cad=rja&uact=8&ved=2ahUKEwjLoc_bjtbhAhWsIDQIHYCEDwkQjRx6BAgBEAU&url\
+=https%3A%2F%2Fmashable.com%2Farticle%2Fpictures-of-fluffy-dogs%2F&psig=AOvVaw2\
+L3YfjUDqVnL-xtAnKFmhT&ust=1555555700838557">
+    <h1 class="title">Hello There</h1>
+    <div class="faq">
+      <h1>Frequently Asked Questions</h1>
+    </div>
+    <div>
+      <h3 class="title">Question:</h3>
+      <h3>Answer</h3>
+      <ul>
+        <li>Number 1</li>
+        <li>Number 2</li>
+      </ul>
+    </div>
+    <span>Same</span>
+    <span>line</span>
+    <h2><a ref="https://www.google.com/" class="link">Click here to go to Googl\
+e</a></h2>
+  </body>
+</html>

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+  background-color: white;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: "Slabo 27px";
+  /* font-weight: 1000; */
+  margin: 0px;
+  text-align: center;
+}
+
+h2 {
+  margin: 0px;
+  text-align: center;
+}
+
+.title {
+  /*color: red;*/
+  /*color: rgba(255, 0, 0, 0.5);*/
+  color: #4BECE3;
+}
+
+.link {
+  text-decoration: none; /*Removes underline*/
+  color: black;
+}
+
+.faq {
+  margin: 0 10px;
+  border: 3px dotted white;
+  background-color: white;
+  padding: 5px; /*Space between text and border
+  /*padding: 10px 40px; 10px refers to top&bottom and 40px refers to sides*/
+}
+
+#image {
+  height: 100px;
+  width: 100px;
+
+}
